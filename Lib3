@@ -1210,7 +1210,7 @@ function Library:Window(p)
 	Close_1.BorderSizePixel = 0
 	Close_1.LayoutOrder = 3
 	Close_1.Size = UDim2.new(0, 16,0, 16)
-	Close_1.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=77165897168683"
+	Close_1.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=99967063680607"
 
 	ChSize_1.Name = "Size"
     ChSize_1.Parent = Ct_1
@@ -1221,7 +1221,7 @@ function Library:Window(p)
     ChSize_1.BorderSizePixel = 0
     ChSize_1.LayoutOrder = 1
     ChSize_1.Size = UDim2.new(0, 16,0, 16)
-    ChSize_1.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=4726772334"
+    ChSize_1.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=123447723820975"
     ChSize_1.ImageTransparency = 0.5
 
 	DropdownValue_1.Name = "DropdownValue"
@@ -4390,7 +4390,7 @@ function Library:Window(p)
         Size_1.BorderSizePixel = 0
         Size_1.Position = UDim2.new(1, 0,1, 0)
         Size_1.Size = UDim2.new(0, 40,0, 40) -- make it square (e.g., 40x40)
-        Size_1.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=77165897168683"
+        Size_1.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=485495666"
 
 		local SizeFrame = Instance.new("Frame")
 		local ImageLabel_1 = Instance.new("ImageLabel")
