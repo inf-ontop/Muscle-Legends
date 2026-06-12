@@ -1261,7 +1261,7 @@ function Library:Window(p)
     Icon_1.BorderColor3 = Color3.fromRGB(0,0,0)
     Icon_1.BorderSizePixel = 0
     Icon_1.Size = UDim2.new(0, 30,0, 30)
-    Icon_1.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=77165897168683"  -- Your custom icon
+    Icon_1.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=116233935815807"  -- Your custom icon
     Icon_1.ImageRectSize = Vector2.new(0, 0)  -- Clear sprite sheet
     Icon_1.ImageRectOffset = Vector2.new(0, 0)  -- Clear sprite sheet
 	
