@@ -1261,7 +1261,7 @@ function Library:Window(p)
     Icon_1.BorderColor3 = Color3.fromRGB(0,0,0)
     Icon_1.BorderSizePixel = 0
     Icon_1.Size = UDim2.new(0, 30,0, 30)
-    Icon_1.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=124699968297426"  -- Your custom icon
+    Icon_1.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=92862261248998"  -- Your custom icon
     Icon_1.ImageRectSize = Vector2.new(0, 0)  -- Clear sprite sheet
     Icon_1.ImageRectOffset = Vector2.new(0, 0)  -- Clear sprite sheet
 	
@@ -4390,7 +4390,7 @@ function Library:Window(p)
         Size_1.BorderSizePixel = 0
         Size_1.Position = UDim2.new(1, 0,1, 0)
         Size_1.Size = UDim2.new(0, 40,0, 40) -- make it square (e.g., 40x40)
-        Size_1.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=124699968297426"
+        Size_1.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=92862261248998"
 
 		local SizeFrame = Instance.new("Frame")
 		local ImageLabel_1 = Instance.new("ImageLabel")
@@ -4696,7 +4696,7 @@ function Library:Window(p)
             CloseIcon.Size = UDim2.new(0, 50, 0, 50)
             CloseIcon.Position = UDim2.new(0.5, 0, 0.5, 0)
             CloseIcon.AnchorPoint = Vector2.new(0.5, 0.5)
-            CloseIcon.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=124699968297426"
+            CloseIcon.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=92862261248998"
 
             addToTheme('Text & Icon', CloseIcon)
 		
