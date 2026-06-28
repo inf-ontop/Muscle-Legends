@@ -983,6 +983,14 @@ Overlay.BackgroundTransparency = 0.45
 Overlay.BorderSizePixel = 0
 Overlay.ZIndex = Background.ZIndex + 1
 
+for _,v in ipairs(Window:GetDescendants()) do
+    if v ~= Background and v ~= Overlay then
+        if v:IsA("GuiObject") then
+            v.ZIndex = v.ZIndex + 2
+        end
+    end
+end
+
 	do -- Altering Window Color
 		local Title = Window:FindFirstChild("Title")
 		local Bar = Window:FindFirstChild("Bar")
