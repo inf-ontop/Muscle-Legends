@@ -1,9 +1,6 @@
 return {
   ["thelegends23k"] = true,
-  ["Demztrius"] = true,
-  ["preston_roblox12341"] = true,
-  ["dereine2010"] = true,
-  ["Xx_GPWArka"] = true,
+  ["Yvngchase11"] = true,
   ["PFDxKISS2"] = true,
   ["PFDxkiss"] = true,
   ["o0RuuuuuRuuuuu0o"] = true,
