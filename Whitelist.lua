@@ -4,4 +4,5 @@ return {
   ["PFDxKISS2"] = true,
   ["PFDxkiss"] = true,
   ["o0RuuuuuRuuuuu0o"] = true,
+  ["xfabianderprogamerx"] = true,
 }
