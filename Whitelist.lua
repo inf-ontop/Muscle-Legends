@@ -8,4 +8,6 @@ return {
   ["HushedWit"] = true,
   ["rackedupkel2"] = true,
   ["idksumrandomig"] = true,
+  ["dereine2010"] = true,
+  ["preston_roblox12341"] = true,
 }
