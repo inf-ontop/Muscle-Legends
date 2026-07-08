@@ -5,4 +5,7 @@ return {
   ["PFDxkiss"] = true,
   ["o0RuuuuuRuuuuu0o"] = true,
   ["xfabianderprogamerx"] = true,
+  ["HushedWit"] = true,
+  ["rackedupkel2"] = true,
+  ["idksumrandomig"] = true,
 }
