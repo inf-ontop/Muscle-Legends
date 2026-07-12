@@ -4,10 +4,8 @@ return {
   ["PFDxKISS2"] = true,
   ["PFDxkiss"] = true,
   ["o0RuuuuuRuuuuu0o"] = true,
-  ["xfabianderprogamerx"] = true,
   ["HushedWit"] = true,
   ["rackedupkel2"] = true,
   ["idksumrandomig"] = true,
   ["dereine2010"] = true,
-  ["preston_roblox12341"] = true,
 }
