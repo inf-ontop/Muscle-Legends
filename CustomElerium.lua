@@ -184,7 +184,7 @@ titleLabel.Font = Enum.Font.DenkOne
 titleLabel.Text = "Gamer Time"
 titleLabel.TextColor3 = Color3.new(1, 1, 1)
 titleLabel.TextSize = 16
-titleLabel.TextXAlignment = Enum.TextXAlignment.Center
+titleLabel.TextXAlignment = Enum.TextXAlignment.Left
 
 tabSelection.Name = "TabSelection"
 tabSelection.Parent = window
