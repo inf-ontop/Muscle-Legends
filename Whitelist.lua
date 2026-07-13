@@ -9,4 +9,7 @@ return {
   ["idksumrandomig"] = true,
   ["dereine2010"] = true,
   ["Xx_GPWArka"] = true,
+  ["heri631"] = true,
+  ["ahmetmamaut"] = true,
+  ["RealAxolotlGaming"] = true,
 }
