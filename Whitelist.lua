@@ -19,4 +19,6 @@ return {
   ["elrawafans026"] = true,
   ["ThatKingJohnathon"] = true,
   ["Theyluvfab1"] = true,
+  -- Darkness
+  ["Terrionp20"] = true,
 }
