@@ -1,6 +1,7 @@
 return {
   -- RuRu
   ["thelegends23k"] = true,
+  ["o0RuuuuuRuuuuu0o"] = true,
   -- Foxy
   ["PFDxKISS2"] = true,
   ["PFDxkiss"] = true,
