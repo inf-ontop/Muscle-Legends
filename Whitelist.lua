@@ -22,4 +22,8 @@ return {
   ["Theyluvfab1"] = true,
   -- Darkness
   ["Terrionp20"] = true,
+  -- Keey
+  ["LoYaL_MadMax2"] = true,
+  ["aj199985"] = true,
+  ["Iamnotoriginaldude"] = true,
 }
