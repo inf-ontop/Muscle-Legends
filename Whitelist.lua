@@ -11,7 +11,7 @@ return {
   ["idksumrandomig"] = true,
   -- Axel
   ["dereine2010"] = true,
-  ["Xx_GPWArka"] = true,
+  ["Unsealt"] = true,
   -- Billy
   ["heri631"] = true,
   ["ahmetmamaut"] = true,
