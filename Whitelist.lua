@@ -11,6 +11,7 @@ return {
   -- Axel
   ["dereine2010"] = true,
   ["Unsealt"] = true,
+  ["Xx_GPWArka"] = true,
   -- Billy
   ["heri631"] = true,
   ["ahmetmamaut"] = true,
