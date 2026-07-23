@@ -133,7 +133,7 @@ h.BackgroundColor3 = Color3.new(1, 1, 1)
 h.BackgroundTransparency = 1;
 h.Position = UDim2.new(0, 5, 0, - 2)
 h.Rotation = 0;
-h.Size = UDim2.new(0, 50, 0, 50)
+h.Size = UDim2.new(0, 30, 0, 30)
 h.ZIndex = 2;
 h.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=75237296781346"
 i.Name = "Base"
