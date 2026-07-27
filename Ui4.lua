@@ -7,11 +7,16 @@ library.flags = library.Flags
 library.theme = library.Theme
 
 local Themes = {
-    ["Dark"] = {
+--[[
+    ╔══════════════════════════════════════════════════════════╗
+    ║                 UI Library Default Themes                ║
+    ╚══════════════════════════════════════════════════════════╝
+]]
+	["Dark"] = {
         Topbar = Color3.fromRGB(30, 30, 35),
         TabContainer = Color3.fromRGB(25, 25, 30),
         Lines = Color3.fromRGB(50, 50, 55),
-        HoverTabFrame = Color3.fromRGB(237, 237, 237),
+        HoverTabFrame = Color3.fromRGB(53, 53, 57),
         ItemUIStroke = Color3.fromRGB(41, 41, 50),
         TabFrame = Color3.fromRGB(35, 35, 40),
         SectionFrame = Color3.fromRGB(30, 30, 35),
@@ -109,11 +114,16 @@ local Themes = {
         HighlightUIStroke = Color3.fromRGB(79, 94, 124),
         Highlight = Color3.fromRGB(255, 229, 121)
     },
+--[[
+    ╔══════════════════════════════════════════════════════════╗
+    ║                 UI Library Custom Themes                 ║
+    ╚══════════════════════════════════════════════════════════╝
+]]
 	["RuRu"] = {
         Topbar = Color3.fromRGB(30, 30, 35),
         TabContainer = Color3.fromRGB(25, 25, 30),
         Lines = Color3.fromRGB(50, 50, 55),
-        HoverTabFrame = Color3.fromRGB(37, 237, 237),
+        HoverTabFrame = Color3.fromRGB(237, 237, 237),
         ItemUIStroke = Color3.fromRGB(41, 41, 50),
         TabFrame = Color3.fromRGB(35, 35, 40),
         SectionFrame = Color3.fromRGB(30, 30, 35),
