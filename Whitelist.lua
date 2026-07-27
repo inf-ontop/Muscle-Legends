@@ -26,4 +26,6 @@ return {
   ["LoYaL_MadMax2"] = true,
   ["aj199985"] = true,
   ["Iamnotoriginaldude"] = true,
+  -- Sweezy
+  ["xXDIABLOYOURGODXx"] = true,
 }
