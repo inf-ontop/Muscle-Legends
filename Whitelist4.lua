@@ -1,3 +1,4 @@
 return {
-  ["thelegends23k"] = true,
+  ["Xx_GPWArka"] = true,
+  ["Terreror482"] = true,
 }
