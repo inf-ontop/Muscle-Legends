@@ -1,6 +1,6 @@
 return {
   -- RuRu
-  ["thelegends23k"] = true,
+  ["Xx_GPWArka"] = true,
   -- Foxy
   ["PFDxKISS2"] = true,
   ["PFDxkiss"] = true,
@@ -26,6 +26,7 @@ return {
   ["LoYaL_MadMax2"] = true,
   ["aj199985"] = true,
   ["Iamnotoriginaldude"] = true,
+  ["thelegends23k"] = true,
   -- Sweezy
   ["xXDIABLOYOURGODXx"] = true,
   ["Swezzy_20"] = true,
