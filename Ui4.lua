@@ -12,7 +12,7 @@ local Themes = {
     ║                 UI Library Default Themes                ║
     ╚══════════════════════════════════════════════════════════╝
 ]]
-	["Dark"] = {
+    ["Dark"] = {
         Topbar = Color3.fromRGB(30, 30, 35),
         TabContainer = Color3.fromRGB(25, 25, 30),
         Lines = Color3.fromRGB(50, 50, 55),
