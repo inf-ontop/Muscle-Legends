@@ -28,4 +28,5 @@ return {
   ["Iamnotoriginaldude"] = true,
   -- Sweezy
   ["xXDIABLOYOURGODXx"] = true,
+  ["Swezzy_20"] = true,
 }
