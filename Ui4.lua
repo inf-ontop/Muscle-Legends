@@ -1,3 +1,12 @@
+--[[
+    ╔══════════════════════════════════════════════════════════╗
+    ║                      RuRu's UI Library                   ║
+    ║                       Version: 1.0.0                     ║
+    ║                     Developed by: RuRu                   ║
+    ║      All rights reserved © 2026 - Professional Edition   ║
+    ╚══════════════════════════════════════════════════════════╝
+]]
+
 local library = {
     Flags = {},
     SectionsOpened = false,
@@ -7,11 +16,9 @@ library.flags = library.Flags
 library.theme = library.Theme
 
 local Themes = {
---[[
-    ╔══════════════════════════════════════════════════════════╗
-    ║                 UI Library Default Themes                ║
-    ╚══════════════════════════════════════════════════════════╝
-]]
+-- ================================================================
+--                          Default Themes
+-- ================================================================
     ["Dark"] = {
         Topbar = Color3.fromRGB(30, 30, 35),
         TabContainer = Color3.fromRGB(25, 25, 30),
@@ -114,12 +121,10 @@ local Themes = {
         HighlightUIStroke = Color3.fromRGB(79, 94, 124),
         Highlight = Color3.fromRGB(255, 229, 121)
     },
---[[
-    ╔══════════════════════════════════════════════════════════╗
-    ║                 UI Library Custom Themes                 ║
-    ╚══════════════════════════════════════════════════════════╝
-]]
-	["RuRu"] = {
+-- ================================================================
+--                          Custom Themes
+-- ================================================================
+	["RuRu's Personal Theme"] = {
         Topbar = Color3.fromRGB(30, 30, 35),
         TabContainer = Color3.fromRGB(25, 25, 30),
         Lines = Color3.fromRGB(50, 50, 55),
