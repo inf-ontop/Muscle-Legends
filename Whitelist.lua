@@ -1,6 +1,7 @@
 return {
   -- RuRu
   ["Xx_GPWArka"] = true,
+  ["Terreror482"] = true,
   -- Foxy
   ["PFDxKISS2"] = true,
   ["PFDxkiss"] = true,
