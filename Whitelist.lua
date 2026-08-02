@@ -5,6 +5,7 @@ return {
   -- Foxy
   ["PFDxKISS2"] = true,
   ["PFDxkiss"] = true,
+  ["LoYaL_MadMax2"] = true,
   -- Witt
   ["HushedWit"] = true,
   ["rackedupkel2"] = true,
@@ -24,10 +25,8 @@ return {
   -- Darkness
   ["Terrionp20"] = true,
   -- Keey
-  ["LoYaL_MadMax2"] = true,
   ["aj199985"] = true,
   ["Iamnotoriginaldude"] = true,
-  ["thelegends23k"] = true,
   -- Sweezy
   ["xXDIABLOYOURGODXx"] = true,
   ["Swezzy_20"] = true,
