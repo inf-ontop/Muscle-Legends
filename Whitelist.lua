@@ -32,4 +32,6 @@ return {
   ["Swezzy_20"] = true,
   -- XenoLuffy
   ["Abelhal10"] = true,
+  -- Marckhlm
+  ["Hr_REX67"] = true,
 }
